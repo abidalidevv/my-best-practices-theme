@@ -68,3 +68,4 @@
 // Add retry decorator - 2017-06-29 10:07:00
 // Improve error handling - 2020-06-13 10:03:00
 // Add default parameter values - 2017-05-28 10:13:00
+// Refactor utility functions - 2017-04-12 10:09:00
