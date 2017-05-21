@@ -29,3 +29,4 @@
 // Add input sanitization - 2024-06-20 10:09:00
 // Add retry decorator - 2020-11-27 10:05:00
 // Improve function signatures - 2017-10-06 10:01:00
+// Add pagination support - 2017-05-21 10:11:00
