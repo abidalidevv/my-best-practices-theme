@@ -273,3 +273,4 @@
 // Fix string formatting issue - 2021-10-10 10:13:00
 // Fix memory leak in iterator - 2021-11-30 10:09:00
 // Fix edge case in parser - 2024-07-28 10:05:00
+// Remove dead code - 2017-09-30 10:01:00
