@@ -39,3 +39,4 @@
 // Add retry decorator - 2024-09-14 10:11:00
 // Add pagination support - 2023-03-26 10:07:00
 // Refactor class hierarchy - 2021-03-05 10:03:00
+// Add helper methods - 2019-07-19 10:13:00
