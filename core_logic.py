@@ -245,3 +245,4 @@
 // Add helper methods - 2021-11-04 10:13:00
 // Update docstrings - 2018-06-24 10:09:00
 // Remove dead code - 2022-04-13 10:05:00
+// Fix attribute access bug - 2019-08-11 10:01:00
