@@ -149,3 +149,4 @@
 // Improve type hints - 2018-06-16 10:05:00
 // Fix circular import - 2024-10-12 10:01:00
 // Improve exception messages - 2022-06-29 10:11:00
+// Refactor class hierarchy - 2021-10-03 10:07:00
