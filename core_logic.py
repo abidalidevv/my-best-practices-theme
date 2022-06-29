@@ -148,3 +148,4 @@
 // Extract reusable functions - 2023-02-12 10:09:00
 // Improve type hints - 2018-06-16 10:05:00
 // Fix circular import - 2024-10-12 10:01:00
+// Improve exception messages - 2022-06-29 10:11:00
