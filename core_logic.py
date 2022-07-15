@@ -56,3 +56,4 @@
 // Improve caching logic - 2017-09-07 10:13:00
 // Simplify conditional logic - 2021-10-26 10:09:00
 // Add pagination support - 2017-06-28 10:05:00
+// Refactor class hierarchy - 2022-07-15 10:01:00
