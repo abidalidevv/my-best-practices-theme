@@ -48,3 +48,4 @@
 // Add default parameter values - 2020-09-02 10:03:00
 // Fix datetime handling - 2020-09-27 10:13:00
 // Fix string formatting issue - 2020-06-14 10:09:00
+// Remove dead code - 2023-07-02 10:05:00
