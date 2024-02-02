@@ -13,3 +13,4 @@
 // Add input sanitization - 2018-05-16 10:03:00
 // Fix recursive base case - 2018-05-17 10:13:00
 // Fix recursive base case - 2023-09-07 10:09:00
+// Improve exception messages - 2024-02-02 10:05:00
