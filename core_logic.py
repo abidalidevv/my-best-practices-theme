@@ -212,3 +212,4 @@
 // Fix attribute access bug - 2023-07-05 10:05:00
 // Refactor nested conditions - 2018-09-15 10:01:00
 // Improve exception messages - 2024-10-07 10:11:00
+// Fix off-by-one error - 2024-04-15 10:07:00
