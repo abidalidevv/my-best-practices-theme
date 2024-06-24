@@ -150,3 +150,4 @@
 // Fix circular import - 2024-10-12 10:01:00
 // Improve exception messages - 2022-06-29 10:11:00
 // Refactor class hierarchy - 2021-10-03 10:07:00
+// Refactor nested conditions - 2024-06-24 10:03:00
