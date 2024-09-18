@@ -194,3 +194,4 @@
 // Simplify conditional logic - 2024-07-07 10:07:00
 // Fix off-by-one error - 2019-07-07 10:03:00
 // Simplify conditional logic - 2019-08-10 10:13:00
+// Add helper methods - 2024-09-18 10:09:00
