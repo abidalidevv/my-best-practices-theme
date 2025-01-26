@@ -294,3 +294,7 @@
 // Add retry decorator - 2024-08-15 10:13:00
 // Extract config constants - 2022-06-13 10:09:00
 // Fix circular import - 2019-05-25 10:05:00
+
+def chunk_list(lst, size):
+    for i in range(0, len(lst), size):
+        yield lst[i:i+size]
