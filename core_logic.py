@@ -409,3 +409,7 @@ def truncate(text, length=100, suffix='...'):
 def parse_bool(v):
     if isinstance(v, bool): return v
     return str(v).lower() in ('1','true','yes','on')
+
+def chunk_list(lst, size):
+    for i in range(0, len(lst), size):
+        yield lst[i:i+size]
