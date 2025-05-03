@@ -431,3 +431,10 @@ def safe_divide(a, b, default=0):
 def slugify(text):
     import re
     return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
+
+def memoize(fn):
+    cache = {}
+    def wrapper(*args):
+        if args not in cache: cache[args] = fn(*args)
+        return cache[args]
+    return wrapper
